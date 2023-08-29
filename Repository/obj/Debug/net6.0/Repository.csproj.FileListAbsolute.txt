@@ -1,0 +1,12 @@
+C:\Users\Mohamed.mikkawy\source\repos\FinalProject_EF\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\Mohamed.mikkawy\source\repos\FinalProject_EF\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\Mohamed.mikkawy\source\repos\FinalProject_EF\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\Mohamed.mikkawy\source\repos\FinalProject_EF\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\Mohamed.mikkawy\source\repos\FinalProject_EF\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed.mikkawy\source\repos\FinalProject_EF\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\Mohamed.mikkawy\source\repos\FinalProject_EF\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\Mohamed.mikkawy\source\repos\FinalProject_EF\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed.mikkawy\source\repos\FinalProject_EF\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\Mohamed.mikkawy\source\repos\FinalProject_EF\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Users\Mohamed.mikkawy\source\repos\FinalProject_EF\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Users\Mohamed.mikkawy\source\repos\FinalProject_EF\Repository\obj\Debug\net6.0\ref\Repository.dll

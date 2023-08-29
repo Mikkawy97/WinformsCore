@@ -1,0 +1,15 @@
+C:\Users\Mohamed.mikkawy\source\repos\FinalProject_EF\Repository\bin\Debug\net6.0\RepositoryLayer.deps.json
+C:\Users\Mohamed.mikkawy\source\repos\FinalProject_EF\Repository\bin\Debug\net6.0\RepositoryLayer.dll
+C:\Users\Mohamed.mikkawy\source\repos\FinalProject_EF\Repository\bin\Debug\net6.0\RepositoryLayer.pdb
+C:\Users\Mohamed.mikkawy\source\repos\FinalProject_EF\Repository\bin\Debug\net6.0\Model.dll
+C:\Users\Mohamed.mikkawy\source\repos\FinalProject_EF\Repository\bin\Debug\net6.0\Model.pdb
+C:\Users\Mohamed.mikkawy\source\repos\FinalProject_EF\Repository\obj\Debug\net6.0\RepositoryLayer.csproj.AssemblyReference.cache
+C:\Users\Mohamed.mikkawy\source\repos\FinalProject_EF\Repository\obj\Debug\net6.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed.mikkawy\source\repos\FinalProject_EF\Repository\obj\Debug\net6.0\RepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\Mohamed.mikkawy\source\repos\FinalProject_EF\Repository\obj\Debug\net6.0\RepositoryLayer.AssemblyInfo.cs
+C:\Users\Mohamed.mikkawy\source\repos\FinalProject_EF\Repository\obj\Debug\net6.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed.mikkawy\source\repos\FinalProject_EF\Repository\obj\Debug\net6.0\RepositoryLayer.csproj.CopyComplete
+C:\Users\Mohamed.mikkawy\source\repos\FinalProject_EF\Repository\obj\Debug\net6.0\RepositoryLayer.dll
+C:\Users\Mohamed.mikkawy\source\repos\FinalProject_EF\Repository\obj\Debug\net6.0\refint\RepositoryLayer.dll
+C:\Users\Mohamed.mikkawy\source\repos\FinalProject_EF\Repository\obj\Debug\net6.0\RepositoryLayer.pdb
+C:\Users\Mohamed.mikkawy\source\repos\FinalProject_EF\Repository\obj\Debug\net6.0\ref\RepositoryLayer.dll

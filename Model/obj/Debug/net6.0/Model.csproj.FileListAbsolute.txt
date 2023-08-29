@@ -1,0 +1,12 @@
+C:\Users\Mohamed.mikkawy\source\repos\FinalProject_EF\Model\bin\Debug\net6.0\Model.deps.json
+C:\Users\Mohamed.mikkawy\source\repos\FinalProject_EF\Model\bin\Debug\net6.0\Model.dll
+C:\Users\Mohamed.mikkawy\source\repos\FinalProject_EF\Model\bin\Debug\net6.0\Model.pdb
+C:\Users\Mohamed.mikkawy\source\repos\FinalProject_EF\Model\obj\Debug\net6.0\Model.csproj.AssemblyReference.cache
+C:\Users\Mohamed.mikkawy\source\repos\FinalProject_EF\Model\obj\Debug\net6.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed.mikkawy\source\repos\FinalProject_EF\Model\obj\Debug\net6.0\Model.AssemblyInfoInputs.cache
+C:\Users\Mohamed.mikkawy\source\repos\FinalProject_EF\Model\obj\Debug\net6.0\Model.AssemblyInfo.cs
+C:\Users\Mohamed.mikkawy\source\repos\FinalProject_EF\Model\obj\Debug\net6.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed.mikkawy\source\repos\FinalProject_EF\Model\obj\Debug\net6.0\Model.dll
+C:\Users\Mohamed.mikkawy\source\repos\FinalProject_EF\Model\obj\Debug\net6.0\refint\Model.dll
+C:\Users\Mohamed.mikkawy\source\repos\FinalProject_EF\Model\obj\Debug\net6.0\Model.pdb
+C:\Users\Mohamed.mikkawy\source\repos\FinalProject_EF\Model\obj\Debug\net6.0\ref\Model.dll
